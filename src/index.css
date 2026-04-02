@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700;800&display=swap");
+@import "tailwindcss";
+
+body {
+  font-family: Inter, Barlow, sans-serif;
+  background: #f0f0f0;
+  color: #111827;
+}
+
+* {
+  box-sizing: border-box;
+}
